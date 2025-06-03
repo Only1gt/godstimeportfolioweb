@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Project 1",
+        "description": "Content of Boondocks.",
+        "image": "media/my_project_video.mp4",
+        "link": "https://example.com/project1"
+    },
+    {
+        "id": 2,
+        "title": "Project 2",
+        "description": "My Wrist-Watch video",
+        "image": "media/project2a.mp4",
+        "link": "https://example.com/project2"
+    },
+    {
+        "id": 3,
+        "title": "Project 3",
+        "description": "Dance-Show",
+        "image": "media/project3a.mp4",
+        "link": "https://example.com/project3"
+    }
+]
